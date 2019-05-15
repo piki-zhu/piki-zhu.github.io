@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Orianna</title>
+    <link>http://piki-zhu.github.io/post/</link>
+    <description>Recent content in Posts on Orianna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Mon, 13 Aug 2018 00:14:19 +0800</lastBuildDate>
+    
+	<atom:link href="http://piki-zhu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This is an example</title>
+      <link>http://piki-zhu.github.io/post/first/</link>
+      <pubDate>Mon, 13 Aug 2018 00:14:19 +0800</pubDate>
+      
+      <guid>http://piki-zhu.github.io/post/first/</guid>
+      <description>This is an example of adding an intro picture to the post.</description>
+    </item>
+    
+  </channel>
+</rss>

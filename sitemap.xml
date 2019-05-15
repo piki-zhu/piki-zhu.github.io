@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://piki-zhu.github.io/categories/</loc>
+    <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://piki-zhu.github.io/series/example/</loc>
+    <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://piki-zhu.github.io/</loc>
+    <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://piki-zhu.github.io/post/</loc>
+    <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://piki-zhu.github.io/categories/sci/</loc>
+    <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://piki-zhu.github.io/series/</loc>
+    <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://piki-zhu.github.io/tags/</loc>
+    <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://piki-zhu.github.io/post/first/</loc>
+    <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://piki-zhu.github.io/tags/blog/</loc>
+    <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://piki-zhu.github.io/tags/css/</loc>
+    <lastmod>2018-08-13T00:14:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

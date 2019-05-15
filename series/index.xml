@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Orianna</title>
+    <link>http://piki-zhu.github.io/series/</link>
+    <description>Recent content in Series on Orianna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Mon, 13 Aug 2018 00:14:19 +0800</lastBuildDate>
+    
+	<atom:link href="http://piki-zhu.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example</title>
+      <link>http://piki-zhu.github.io/series/example/</link>
+      <pubDate>Mon, 13 Aug 2018 00:14:19 +0800</pubDate>
+      
+      <guid>http://piki-zhu.github.io/series/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
